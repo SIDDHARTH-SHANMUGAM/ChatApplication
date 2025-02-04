@@ -1,0 +1,2 @@
+use the any online flow chart website to desing the Class Diagram (or) Er Diagram for Database.
+and upload the same in this folder after you complete as a photo or pdf or any other visual representing files.
